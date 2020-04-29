@@ -31,10 +31,6 @@ No intrusive automatic removal of notifications added below iOS9
 ## How To Use
 Automatically effective, no additional operations are required after the project is introduced
 
-## Credits
-
-MSCrashProtector was created by [Jiang.Zijia](https://github.com/surejiang).
-
 ## License
 
 MSCrashProtector is available under the MIT license. See the LICENSE file for more info.
